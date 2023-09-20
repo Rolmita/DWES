@@ -2,6 +2,9 @@
 
 En este tema de verán los ***conceptos básicos***.
 
+PARA INCLUIR IMAGENES:
+![Lenguajes de programación](assets/lenguajes-de-programacion.jpg)
+
 Se verán los siguientes apartados:
 
 SI PONGO #Y UN ESPACIO DETRAS PONGO UN TITULO NIVEL 1
@@ -9,7 +12,7 @@ SI PONGO #Y UN ESPACIO DETRAS PONGO UN TITULO NIVEL 1
 Módulo de Desarollo Web en Entorno Servidor, 2º DAW.
 
 SI PONGO ##Y UN ESPACIO PONGO UN TITULO DE NIVEL 2
-## TEMA 1
+## ÍNDICE
 En este tema se verán los conceptos básicos. Si queremos ponerlos en **negrita** mirar los apuntes, también se pueden poner en ***negritaItálica*** o ~~tacharse~~.
 Se verán los siguiente apartados:
 1. lista1
@@ -25,9 +28,7 @@ void main (Sting args[]){
 println('Hola')
 }
 ```
-## TEMA 2
-
-## TEMA 3
+![Javascript](assets/Javascript.jpg)
 
 ENLACES:
 [BUSCADOR GOOGLE](www.google.es) -> crea un enlace con el nombre BUSCADOR GOOGLE
@@ -40,6 +41,8 @@ PARA PONER COMENTARIOS SE USA >:
 > ```javascript
 > var numero = 5.7
 >```
+
+![NodeJS](assets/nodejs-logo.png)
 
 PARA PONER UNA TABLA
 EJ: 3 columnas 
@@ -63,4 +66,6 @@ Lenguaje	|	Inventor	|	Año
 Javascript	|	James		|	1995
 Java		|	James Gosling	|	1995
 Python		|	Fan de MonthyPython	|	2222
+
+
 
