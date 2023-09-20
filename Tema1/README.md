@@ -45,7 +45,9 @@ PARA PONER COMENTARIOS SE USA >:
 ![NodeJS](assets/nodejs-logo.png)
 
 PARA PONER UNA TABLA
+
 EJ: 3 columnas 
+
 ALINEAR A LA IZQUIERDA
 Lenguaje	|	Inventor	|	Año
 ---------------------|------------------------------|----------------
